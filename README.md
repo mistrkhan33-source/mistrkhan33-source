@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Hashim Naeem 👋
 
-<!--
-**mistrkhan33-source/mistrkhan33-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Software Engineering Student at Capital University of Science and Technology (CUST).
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer passionate about learning programming and building software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 Currently learning C++ and Object-Oriented Programming.
+- 💡 Interested in Software Development and Web Development.
+- 📚 Improving my programming skills through practical projects.
+- 🎯 Goal: Become a skilled Software Engineer.
+
+### 🛠️ Skills & Technologies
+- C++
+- Python (Learning)
+- Git & GitHub
+- Visual Studio Code
+
+### 📫 Connect With Me
+- GitHub: [@mistrkhan33-source](https://github.com/mistrkhan33-source)
+
+---
+⭐ Thanks for visiting my profile!
